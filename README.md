@@ -9,22 +9,23 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg" />][linkedin]
 
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="Git" width="26px" src="https://icons.getbootstrap.com/assets/icons/git.svg" />][gitplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://icons.getbootstrap.com/assets/icons/github.svg" />][githubplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://icons.getbootstrap.com/assets/icons/terminal.svg" />][terminalplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" />][htmlplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://brandeps.com/logo-download/O/Ottawa-JS-logo-vector-01.svg" />][jsplaylist]
+[<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />][dartplaylist]
+[<img align="left" alt="Flutter" width="26px" src="https://plugins.jetbrains.com/files/9212/151756/icon/pluginIcon.svg" />][flutterplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodeplaylist]
 
 <br />
 <br />
@@ -33,6 +34,13 @@
 
 [twitter]: https://twitter.com/iahmedchowhan
 [linkedin]: https://www.linkedin.com/in/iahmedchowhan
-[webdevplaylist]: https://github.com/topics/html
+
+[gitplaylist]: https://github.com/topics/git
+[githubplaylist]: https://github.com/topics/github
+[terminalplaylist]: https://github.com/topics/terminal
+[vscodeplaylist]: https://github.com/topics/visual-studio-code
+[htmlplaylist]: https://github.com/topics/html
 [jsplaylist]: https://github.com/topics/javascript
 [cssplaylist]: https://github.com/topics/css
+[dartplaylist]: https://github.com/topics/dart
+[flutterplaylist]: https://github.com/topics/flutter
