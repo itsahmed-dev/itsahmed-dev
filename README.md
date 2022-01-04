@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Full-Stack Development ⚡
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Dart and Flutter
-- 🤔 I’m looking for help with App Development.
-- 😄 Pronouns: He/His 👨‍💻
+- 🔭 I’m currently working on Cross Platfrom Application Development ⚡
+- 🌱 I’m currently learning Dart Programming Language 🎯
+- 👯 I’m looking to collaborate on Learning Dart 👨‍💻
+- 🤔 I’m looking for help with App Development 📱
+- 😄 Pronouns: He/His🙎‍♂️
 - ⚡ Fun fact: I've a billion dollar app idea 🤑
 
 ### Connect with me:
