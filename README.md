@@ -20,6 +20,7 @@
 
 [<img align="left" alt="Git" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/git.svg" />][gitplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://icons.getbootstrap.com/assets/icons/github.svg" />][githubplaylist]
+[<img align="left" alt="MarkDown" width="26px" src="https://markdown-here.com/img/icon256.png" />][markdownplaylist]
 
 [<img align="left" alt="HTML5" width="26px" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" />][htmlplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" />][cssplaylist]
@@ -41,6 +42,7 @@
 
 [gitplaylist]: https://github.com/topics/git
 [githubplaylist]: https://github.com/topics/github
+[markdownplaylist]: https://github.com/topics/markdown
 
 [htmlplaylist]: https://github.com/topics/html
 [cssplaylist]: https://github.com/topics/css
