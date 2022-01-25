@@ -1,4 +1,4 @@
-### Hi there 🙋‍♂
+## Hey 🙋‍♂ Salaam | سلام
 
 - 🔭 I’m currently working on Cross Platfrom Application Development ⚡
 - 🌱 I’m currently learning Dart Programming Language 🎯
@@ -18,20 +18,35 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Git" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/git.svg" />][gitplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://icons.getbootstrap.com/assets/icons/github.svg" />][githubplaylist]
-[<img align="left" alt="MarkDown" width="26px" src="https://markdown-here.com/img/icon256.png" />][markdownplaylist]
+[<img align="left" alt="Git" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/git.svg" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://icons.getbootstrap.com/assets/icons/github.svg" />][github]
 
-[<img align="left" alt="HTML5" width="26px" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" />][htmlplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://brandeps.com/logo-download/O/Ottawa-JS-logo-vector-01.svg" />][jsplaylist]
-[<img align="left" alt="Atom" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/atom-ide.svg" />][atomplaylist]
+[<img align="left" alt="MarkDown" width="26px" src="https://markdown-here.com/img/icon256.png" />][markdown]
 
-[<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />][dartplaylist]
-[<img align="left" alt="Flutter" width="26px" src="https://plugins.jetbrains.com/files/9212/151756/icon/pluginIcon.svg" />][flutterplaylist]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodeplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" />][css]
+
+[<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />][dart]
+[<img align="left" alt="Flutter" width="26px" src="https://plugins.jetbrains.com/files/9212/151756/icon/pluginIcon.svg" />][flutter]
 
 <br />
+
+### Softwares:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Atom" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/atom-ide.svg" />][atom]
+[<img align="left" alt="GitHub Desktop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />][githubdesktop]
+[<img align="left" alt="Chrome" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-chrome.svg" />][chrome]
+
+<br />
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsahmed-dev&langs_count=5&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsahmed-dev&hide=stars,prs,issues,contribs&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsahmed_dev&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 ---
@@ -40,15 +55,18 @@
 [linkedin]: https://www.linkedin.com/in/iahmedchowhan
 [Reddit]: https://www.reddit.com/user/itsahmed_dev
 
-[gitplaylist]: https://github.com/topics/git
-[githubplaylist]: https://github.com/topics/github
-[markdownplaylist]: https://github.com/topics/markdown
+[git]: https://github.com/topics/git
+[github]: https://github.com/topics/github
 
-[htmlplaylist]: https://github.com/topics/html
-[cssplaylist]: https://github.com/topics/css
-[jsplaylist]: https://github.com/topics/javascript
-[atomplaylist]: https://github.com/topics/atom
+[markdown]: https://github.com/topics/markdown
 
-[dartplaylist]: https://github.com/topics/dart
-[flutterplaylist]: https://github.com/topics/flutter
-[vscodeplaylist]: https://github.com/topics/visual-studio-code
+[html]: https://github.com/topics/html
+[css]: https://github.com/topics/css
+
+[dart]: https://github.com/topics/dart
+[flutter]: https://github.com/topics/flutter
+
+[vscode]: https://github.com/topics/visual-studio-code
+[atom]: https://github.com/topics/atom
+[githubdesktop]: https://github.com/topics/github-desktop
+[chrome]: https://github.com/topics/chrome
