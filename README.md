@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://www.svgrepo.com/show/294349/www.svg" />][Website]
+[<img align="left" alt="Website" width="22px" src="https://www.svgrepo.com/show/250632/www.svg" />][Website]
 [<img align="left" alt="Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg" />][linkedin]
 [<img align="left" alt="Reddit" width="22px" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" />][Reddit]
@@ -46,7 +46,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsahmed-dev&langs_count=5&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsahmed-dev&hide=stars,prs,issues,contribs&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsahmed_dev&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
