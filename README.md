@@ -20,7 +20,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Git" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/git.svg" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://icons.getbootstrap.com/assets/icons/github.svg" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />][github]
 
 [<img align="left" alt="MarkDown" width="26px" src="https://markdown-here.com/img/icon256.png" />][markdown]
 
@@ -36,7 +36,6 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Atom" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/atom-ide.svg" />][atom]
-[<img align="left" alt="GitHub Desktop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />][githubdesktop]
 [<img align="left" alt="Chrome" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-chrome.svg" />][chrome]
 [<img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />][notion]
 
@@ -53,7 +52,7 @@
 ---
 
 [Website]: http://www.iahmed.space/
-[twitter]: https://twitter.com/iahmedchowhan
+[twitter]: https://twitter.com/itsAhmedDev
 [linkedin]: https://www.linkedin.com/in/iahmedchowhan
 [Reddit]: https://www.reddit.com/user/itsahmed_dev
 
