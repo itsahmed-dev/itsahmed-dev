@@ -38,6 +38,7 @@
 [<img align="left" alt="Atom" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/atom-ide.svg" />][atom]
 [<img align="left" alt="GitHub Desktop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />][githubdesktop]
 [<img align="left" alt="Chrome" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-chrome.svg" />][chrome]
+[<img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />][notion]
 
 <br />
 <br />
@@ -71,3 +72,4 @@
 [atom]: https://github.com/topics/atom
 [githubdesktop]: https://github.com/topics/github-desktop
 [chrome]: https://github.com/topics/chrome
+[notion]: https://github.com/topics/notion
