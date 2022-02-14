@@ -34,7 +34,7 @@
 
 ### Softwares:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/visual-studio-code.svg" />][vscode]
 [<img align="left" alt="Atom" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/atom-ide.svg" />][atom]
 [<img align="left" alt="Chrome" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-chrome.svg" />][chrome]
 [<img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />][notion]
