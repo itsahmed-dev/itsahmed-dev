@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on Cross Platfrom Application Development ⚡
 - 🌱 I’m currently learning Dart Programming Language 🎯
-- 👯 I’m looking to collaborate on Learning Dart 👨‍💻
-- 🤔 I’m looking for help with App Development 📱
+- 👯 I’m looking to collaborate on Cross-Platfrom Application Development 👨‍💻
+- 🤔 I’m looking for help with Database Managment 📱
 - 😄 Pronouns: He/His🙎‍♂️
 - ⚡ Fun fact: I've a billion dollar app idea 🤑
 
@@ -22,8 +22,6 @@
 [<img align="left" alt="Git" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/git.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />][github]
 
-[<img align="left" alt="MarkDown" width="26px" src="https://markdown-here.com/img/icon256.png" />][markdown]
-
 [<img align="left" alt="HTML5" width="26px" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" />][css]
 
@@ -35,8 +33,6 @@
 ### Softwares:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/visual-studio-code.svg" />][vscode]
-[<img align="left" alt="Atom" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/atom-ide.svg" />][atom]
-[<img align="left" alt="Chrome" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-chrome.svg" />][chrome]
 [<img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />][notion]
 
 <br />
@@ -59,8 +55,6 @@
 [git]: https://github.com/topics/git
 [github]: https://github.com/topics/github
 
-[markdown]: https://github.com/topics/markdown
-
 [html]: https://github.com/topics/html
 [css]: https://github.com/topics/css
 
@@ -68,7 +62,4 @@
 [flutter]: https://github.com/topics/flutter
 
 [vscode]: https://github.com/topics/visual-studio-code
-[atom]: https://github.com/topics/atom
-[githubdesktop]: https://github.com/topics/github-desktop
-[chrome]: https://github.com/topics/chrome
 [notion]: https://github.com/topics/notion
