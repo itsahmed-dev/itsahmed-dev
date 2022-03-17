@@ -28,10 +28,6 @@
 [<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />][dart]
 [<img align="left" alt="Flutter" width="26px" src="https://plugins.jetbrains.com/files/9212/151756/icon/pluginIcon.svg" />][flutter]
 
-<br />
-
-### Softwares:
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/visual-studio-code.svg" />][vscode]
 [<img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />][notion]
 
