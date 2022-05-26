@@ -1,11 +1,11 @@
 ## Hey 🙋‍♂ Salaam | سلام
 
-- 🔭 I’m currently working on Cross Platfrom Application Development ⚡
-- 🌱 I’m currently learning Dart Programming Language 🎯
-- 👯 I’m looking to collaborate on Cross-Platfrom Application Development 👨‍💻
-- 🤔 I’m looking for help with Database Managment 📱
+- 🔭 I’m currently working on Cross-Platform Application Development ⚡
+- 🌱 I’m currently learning Dart & Flutter 🎯
+- 👯 I’m looking to collaborate on Startup Managment 👨‍💻
+- 🤔 I’m looking for help with Backend 📱
 - 😄 Pronouns: He/His🙎‍♂️
-- ⚡ Fun fact: I've a billion dollar app idea 🤑
+- ⚡ Fun fact: I've got a Billion-Dollar app idea 🤑
 
 ### Connect with me:
 
