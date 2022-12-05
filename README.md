@@ -35,3 +35,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=itsahmed-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsahmed-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsahmed-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
+
+# StarDev.io
+
+[![Check out itsahmed-dev's profile on stardev.io](https://stardev.io/developers/itsahmed-dev/badge/languages/locality.svg)](https://stardev.io/developers/itsahmed-dev)
